@@ -1,2 +1,5 @@
 one line
 two line
+three line 
+color fourline
+color fiveline
