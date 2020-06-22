@@ -1,4 +1,0 @@
-lianzhipeng
-git
-hadoop
-1 line
