@@ -6,3 +6,4 @@ double line
 master
 color
 atguigui
+master 1 
