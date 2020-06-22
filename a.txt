@@ -1,4 +1,5 @@
 one line
 two line
 color addline
-three line 
+three line
+double line
