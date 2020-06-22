@@ -3,3 +3,4 @@ two line
 color addline
 three line
 double line
+color
